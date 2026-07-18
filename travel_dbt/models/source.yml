@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: public
+    tables:
+      - name: customers
+      - name: routes
+      - name: orders
+      - name: tickets
+      - name: payments

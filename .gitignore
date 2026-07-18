@@ -1,0 +1,12 @@
+# dbt
+travel_dbt/target/
+travel_dbt/dbt_packages/
+travel_dbt/logs/
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+# secrets & os
+.env
+.DS_Store
