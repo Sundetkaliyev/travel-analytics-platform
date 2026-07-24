@@ -52,3 +52,11 @@ cd travel_dbt && dbt run && dbt test
 - data_generator/ — генерация данных (Python)
 - travel_dbt/models/staging/ — очистка сырых таблиц
 - travel_dbt/models/marts/ — DWH + аналитические витрины
+
+
+## Дашборд
+![Выручка](<img width="1124" height="606" alt="IMAGE 2026-07-24 22_35_06" src="https://github.com/user-attachments/assets/37f02e81-9de6-4c7e-8bef-952ab0ae07dd" />
+)
+![RFM](<img width="1146" height="594" alt="IMAGE 2026-07-24 22_36_01" src="https://github.com/user-attachments/assets/39379bea-bd2f-4d4b-943f-31b8147fe1cc" />
+)
+![Когорты](<img width="1148" height="594" alt="IMAGE 2026-07-24 22_36_25" src="https://github.com/user-attachments/assets/5a15a4fa-496a-4c8e-8487-d12af3f12e9d" />)
